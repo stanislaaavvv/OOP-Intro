@@ -1,0 +1,1 @@
+var _priceForAMinute = 40;
